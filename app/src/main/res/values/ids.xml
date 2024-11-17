@@ -1,0 +1,8 @@
+<resources>
+    <!-- IDs para componentes do layout -->
+    <item name="toolbar" type="id"/>
+    <item name="mapFragment" type="id"/>
+    <item name="streetViewPanoramaView" type="id"/>
+    <item name="btnEnviarEmail" type="id"/>
+    <item name="btnLigar" type="id"/>
+</resources>
